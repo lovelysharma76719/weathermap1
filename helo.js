@@ -1,1 +1,0 @@
-console.log("salamon love suvathilachumi")
